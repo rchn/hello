@@ -1,7 +1,7 @@
 class HelloController < ApplicationController
   def world
   	# add @ to variable to make it global
-  	@name = "Mynard"
+  	@name = "Melvin"
   end
 
   def to
